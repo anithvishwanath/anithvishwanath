@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 My name is Anith (He/they). I am an experience designer by profession, and in my free time, I like to experiment and play around with code. Lately, I've been having heaps of fun learning to build APIs with Node.js.
 
 ### 📫 How to reach me
-[My Twitter](https://twitter.com/anithvishwanath) is the best place to reach me. Here's some other places where I can be found: https://linktr.ee/anith.
+[My Twitter](https://twitter.com/anithvishwanath) is the best place to reach me. Here's a list of some other online places where I can be found: https://linktr.ee/anith.
