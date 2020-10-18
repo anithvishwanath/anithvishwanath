@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is Anith (He/they). I am an experience designer by profession, and in my free time, I like to experiment and play around with code. Lately, I've been having heaps of fun learning to work with different web APIs and Node.js.
+My name is Anith (He/they). I am an experience designer by profession, and in my free time, I like to experiment and play around with code. Lately, I've been having heaps of fun learning to work with WEBGL and Shaders (GLSL).
 
 ### 📫 How to reach me
 [My Twitter](https://twitter.com/_anith) is the best place to reach me. Here's a list of some other online places where I can be found: https://linktr.ee/anith.
