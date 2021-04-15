@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Hi, I'm Anith ✨
+# Hi, I'm Anith ✨
 
 I am an experience designer by profession, and in my free time, I like to experiment and play around with code.
 
