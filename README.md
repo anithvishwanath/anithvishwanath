@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **anithvishwanath/anithvishwanath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,7 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is Anith (He/they). I am an experience designer by profession, and in my free time, I like to experiment and play around with code. Lately, I've been having heaps of fun learning to work with WEBGL and Shaders (GLSL).
+## Hi, I'm Anith ✨
 
-### 📫 How to reach me
-[My Twitter](https://twitter.com/_anith) is the best place to reach me. 
+I am an experience designer by profession, and in my free time, I like to experiment and play around with code.
+
+- 😄 Pronouns: they/he
+- 📫 How to reach me: https://twitter.com/_anith
