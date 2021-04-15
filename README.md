@@ -19,5 +19,3 @@ My name is Anith (He/they). I am an experience designer by profession, and in my
 
 ### 📫 How to reach me
 [My Twitter](https://twitter.com/_anith) is the best place to reach me. 
-
-Here's a list of some other places where you can find me: https://linktr.ee/anith.
