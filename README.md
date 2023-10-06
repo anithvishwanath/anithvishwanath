@@ -16,6 +16,3 @@ Here are some ideas to get you started:
 # Hi, I'm Anith 👋
 
 I am an experience designer by profession, and in my free time, I like to experiment and play around with code.
-
-- 😄 Pronouns: they/he
-- 📫 How to reach me: https://twitter.com/_anith
